@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Berkenalan DenganMas Falhan!
+      text: SaatBerkenalan Dengan Mas Falhan!
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
